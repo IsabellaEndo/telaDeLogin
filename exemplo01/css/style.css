@@ -1,0 +1,16 @@
+body{
+    background-color: #f4f6f9;
+}
+
+input[type="email"], input[type="password"]{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.btn-primary{
+    background-color: hsl(285, 66%, 49%);
+    border-color: hsl(285, 66%, 49%);
+}
+.btn-primary{
+    background-color:#b468d4;
+    border: color #c66be4;
+}
